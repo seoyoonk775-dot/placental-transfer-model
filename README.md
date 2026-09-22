@@ -9,11 +9,11 @@ Code and data associated with the study:
 ```text
 placental-transfer-model/
 ├── data/
-│   └── Supplementary Dataset S1.xlsx
+│   ├──  Supplementary Dataset S1.xlsx
+│   └──  selected_xml.zip
 ├── code/
 │   ├── 01_build_final_models.py
 │   └── 02_llm_fda_labeling.py
-├── selected_xml.zip
 ├── .gitignore
 └── README.md
 ```
