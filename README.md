@@ -14,7 +14,7 @@ placental-transfer-model/
 │   ├── 01_build_final_models.py
 │   └── 02_llm_fda_labeling.py
 ├── selected_xml.zip
-├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
@@ -32,8 +32,6 @@ placental-transfer-model/
 - `selected_xml.zip`  
   Curated FDA Structured Product Labeling (SPL) XML files used as input for the LLM analysis.
 
-- `requirements.txt`  
-  Python package dependencies required to run the scripts.
 
 ## Citation
 
