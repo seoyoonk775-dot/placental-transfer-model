@@ -29,7 +29,7 @@ placental-transfer-model/
 - `code/02_llm_fda_labeling.py`  
   Reproduces the LLM-based classification of FDA drug labels used for external evaluation.
 
-- `selected_xml.zip`  
+- `data/selected_xml.zip`  
   Curated FDA Structured Product Labeling (SPL) XML files used as input for the LLM analysis.
 
 
